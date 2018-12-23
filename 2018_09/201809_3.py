@@ -15,7 +15,7 @@ def trans(string):
             arry[j]=arry[j]*10+int(eval(i))
             j+=1
     return arry
-#将字符串转换为二维数组....title #ajsk
+#将字符串转换为二维数组
 def stoa(string):
     arry=[]
     flag=0#用来计算连续.的个数
